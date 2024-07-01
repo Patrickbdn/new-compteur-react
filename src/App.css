@@ -1,6 +1,13 @@
 .App {
   text-align: center;
   font-family: Arial, sans-serif;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1 {
@@ -10,3 +17,4 @@ h1 {
 button {
   margin: 5px;
 }
+
